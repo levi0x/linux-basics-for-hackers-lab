@@ -27,3 +27,5 @@ Hands-on notes and labeled screenshots from my study of *Linux Basics for Hacker
 
 ## How I’m using this repo
 I’m treating this as a learning log + portfolio to demonstrate consistent hands-on practice.
+
+<img width="2434" height="1340" alt="ch3-ip-addr-flush-add-static" src="https://github.com/user-attachments/assets/36467eec-f4b1-46d7-8afa-b9c1a8b12cf3" />

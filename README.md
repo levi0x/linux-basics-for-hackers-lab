@@ -31,3 +31,20 @@ I’m treating this as a learning log + portfolio to demonstrate consistent hand
 <img width="2434" height="1340" alt="ch3-ip-addr-flush-add-static" src="https://github.com/user-attachments/assets/36467eec-f4b1-46d7-8afa-b9c1a8b12cf3" />
 
 Performed only in a local lab/VM network on systems I own or have explicit permission to test. No real-world targets.
+
+Chapter 4 progress
+```md
+## Progress Log
+- 2026-02-02: Chapter 4 — apt package management lab (search/show/install/remove/purge/autoremove) with screenshots.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -37,6 +37,8 @@ Chapter 4 progress
 ## Progress Log
 - 2026-02-02: Chapter 4 — apt package management lab (search/show/install/remove/purge/autoremove) with screenshots.
 
+- Chapter 4 screenshots: `screenshots/ch4/`
+- Chapter 4 notes: `docs/linux-ch4-adding-removing-software.md`
 
 
 
